@@ -1,4 +1,0 @@
-1.0.0
-
-(This file validates that Comet Prompt is updated and on the latest version.
-If it is not the above, it will update.
