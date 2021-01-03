@@ -1,0 +1,12 @@
+Notices - Read this if you see this!
+
+This webpage is made on Google Sites and posted on GitHub Pages.
+Some broswers do not support the code in this website and so some text/data may be displayed incorrectory or be missing.
+If the data is not dispayed properly, please goto the Google Sites Website (link at bottom of page) and try again.
+The Google Sites Website will only be online for a while until the GitHub Website has good performance and all browsers support this.
+
+
+Comet Engine Websites:
+
+Google Sites: sites.google.com/view/cometengine
+GitHub Pages: cometenginedev.github.io
