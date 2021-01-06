@@ -1,0 +1,29 @@
+<p>Comet Engine
+---------------
+Comet Prompt
+V1.0.0
+
+Thank you for using Comet Prompt. Comet Prompt (CP) is a better version on the original cmd.
+CP has the original cmd commands and, upgraded for maximum fuctionality and performance.
+Main Features of CP include:
+
+Backup of CP Data (data/backup) - If you ever want to move all your CP Data and settings to another Computer, use this command.
+Search for Files (data/search) - I know, I know. This is already there in Windows Explorer, but this one has faster algorithms to ensure faster speeds while searching. (This may vary with computer, some cputer may recive a huge performace boost from this, yet some may computers searches mill be slower.)
+Reset of Data (reset/data) - Did something wrong in the config files and didn't know how to fix it? This command will reset ALL your data. (If you have chashes occuring or unsal behaviior, this may fix it. If not, unistall Comet Engine and install it again)
+Settings (settings) - Settings! You can costimise CP without going in the config files.
+Local Data Server (localdataserver) - You can have some fun in a sandboxed area where you cant affect your PC. (More features to LDS will be added soon)
+Safe Mode (ce/safemode) - This features allowes you to enter an even Safer environment in CP and will disable some commands that may do damage to your computer. (This even includes "del" , to be extra safe!)
+Previous Commands (prevcommands) - See your pervious commands inputed
+Engine Library View (engineLibrary) - This command is useful in case you need to see all the settings loaded into CP and all other Comet Engine programs (that use the Engine Library).
+Defrag (ce/defrag) - This defrager utility has even more options that the inbuilt Windows Defrager and even supports cuostom commands to defrag! (cmd)
+CP Help (ce/help) - It has all the CP commands and thier discriptions
+Comet Engine Verification (ce/verify) - Verfiy Comet Engine (This will only verify the main files, not the modifiable ones)
+Comet Engine Instance Viewer (ce/instance) - Here, you can see all the running instances of Comet Engine. (Some programs may not support this so they may not show up)
+Comet Engine Updater (ce/update) - Automaticly check for Comet Engine Updates
+Powershell (sh/powershell) - This switches CP to the Powershell shell, so it can accept Powershell commands
+Log Viewer (show/log) - View the CP Log
+CP Config Viewer (show/config) - View the current CP Config File
+
+Typing in ce/help will show more commands than listed here!
+If you find any bugs, please goto the Comet Engine Website and report it.
+Thanks for reading this!</p>
